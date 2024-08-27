@@ -1,0 +1,9 @@
+
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8Ø«åª™2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òşÿÿÿÿ8Ø«åª™2
+i
+java:S1223
+"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8Ø«åª™2
+H	java:S106‘"+Replace this use of System.out by a logger.(˜ªêœ8¬­åª™2
+Y
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8¬­åª™2
